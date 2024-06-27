@@ -1,2 +1,7 @@
 brightnessctl
-wireplumber ## check how it works on arch
+
+# TODO : make this better because ugly
+swayidle
+swaylock
+#
+

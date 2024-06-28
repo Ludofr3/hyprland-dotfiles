@@ -5,3 +5,10 @@ swayidle
 swaylock
 #
 
+cargo
+cargo install hyprscratch # for scratchpad apps
+
+flatpak
+flatpak install discord
+
+spotify-launcher # pacman

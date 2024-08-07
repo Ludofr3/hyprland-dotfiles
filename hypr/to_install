@@ -1,14 +1,37 @@
 brightnessctl
 
+# if not already installed
+nmtui
+pipewire
+wireplumber
+
+# also think to enable your network manager :
+sudo systemctl start NetworkManager
+sudo systemctl enable NetworkManager
+# then use nmtui to connect to your network
+
 # TODO : make this better because ugly
 swayidle
 swaylock
-#
-
-cargo
-cargo install hyprscratch # for scratchpad apps
+# ^
 
 flatpak
 flatpak install discord
+# alternative client to be able to screenshare :
+yay -S webcord
 
-spotify-launcher # pacman
+# screen capture / recording :
+yay -S xdg-desktop-portal-hyprland-git
+sudo pacman -S grim slurp
+
+# back to pacman :
+spotify-launcher
+# https://community.spotify.com/t5/Desktop-Linux/Guide-Play-Spotify-links-in-running-client/td-p/4647308
+
+waybar
+
+
+# pas encore validé :
+qt5-wayland
+qt6-wayland
+xdg-desktop-portal-hyprland

@@ -12,8 +12,9 @@ sudo systemctl enable NetworkManager
 
 # TODO : make this better because ugly
 swayidle
-swaylock
 # ^
+
+yay -S swaylock-effects-git
 
 flatpak
 flatpak install discord
@@ -29,7 +30,7 @@ spotify-launcher
 # https://community.spotify.com/t5/Desktop-Linux/Guide-Play-Spotify-links-in-running-client/td-p/4647308
 
 waybar
-
+hyprpaper
 
 # pas encore validé :
 qt5-wayland

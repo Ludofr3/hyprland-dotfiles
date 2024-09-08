@@ -11,13 +11,15 @@ sudo systemctl enable NetworkManager
 # then use nmtui to connect to your network
 
 # TODO : make this better because ugly
+swaylock
 swayidle
 # ^
 
 yay -S swaylock-effects-git
 
-flatpak
-flatpak install discord
+
+# flatpak
+# flatpak install discord
 # alternative client to be able to screenshare :
 yay -S webcord
 
@@ -31,8 +33,3 @@ spotify-launcher
 
 waybar
 hyprpaper
-
-# pas encore validé :
-qt5-wayland
-qt6-wayland
-xdg-desktop-portal-hyprland

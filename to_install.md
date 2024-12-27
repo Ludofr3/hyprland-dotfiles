@@ -10,16 +10,24 @@ slurp
 waybar
 hyprpaper
 blueman
+pavucontrol
+
 
 # install with yay
 swaylock-effects-git
 webcord // this discord distribution works better with hyprland (notably screen sharing)
 hyprswitch // alt tabs
 xdg-desktop-portal-hyprland-git
+eww // need validation
+ags-hyprpanel-git
+matugen-bin
 
 # others 
 spotify-launcher
 https://community.spotify.com/t5/Desktop-Linux/Guide-Play-Spotify-links-in-running-client/td-p/4647308
+### vpn
+wireguard-tools
+wireguird
 
 # NVIDIA EGPU
 https://wiki.archlinux.org/title/External_GPU

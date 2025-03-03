@@ -11,6 +11,7 @@ waybar
 hyprpaper
 blueman
 pavucontrol
+tlp # power savings
 
 
 # install with yay
@@ -21,6 +22,7 @@ xdg-desktop-portal-hyprland-git
 eww // need validation
 ags-hyprpanel-git
 matugen-bin
+tlpui
 
 # others 
 spotify-launcher
@@ -28,6 +30,9 @@ https://community.spotify.com/t5/Desktop-Linux/Guide-Play-Spotify-links-in-runni
 ### vpn
 wireguard-tools
 wireguird
+
+# login theme
+https://github.com/stepanzubkov/where-is-my-sddm-theme/tree/main?tab=readme-ov-file
 
 # NVIDIA EGPU
 https://wiki.archlinux.org/title/External_GPU

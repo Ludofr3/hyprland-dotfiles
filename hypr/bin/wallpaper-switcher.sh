@@ -4,7 +4,7 @@
 declare -A wallpapers=(
     [1]="/home/ludofr3/Wallpapers/flying_city.jpg"
     [2]="/home/ludofr3/Wallpapers/girl_city.jpg"
-    [3]="/home/ludofr3/Wallpapers/girl_with_rabbits3.jpg"
+    [3]="/home/ludofr3/Wallpapers/girl_with_rabbits.jpg"
     # Add more as needed...
 )
 
